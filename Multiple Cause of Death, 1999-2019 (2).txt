@@ -1,0 +1,382 @@
+"Notes"	"Year"	"Year Code"	"County"	"County Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval	Crude Rate Standard Error	% of Total Deaths
+	"2015"	"2015"	"Adams County, OH"	"39001"	13	22006	Unreliable	31.5	101.0	16.4	0.1%
+	"2015"	"2015"	"Allen County, OH"	"39003"	21	82914	25.3	15.7	38.7	5.5	0.1%
+	"2015"	"2015"	"Ashtabula County, OH"	"39007"	24	79192	30.3	19.4	45.1	6.2	0.1%
+	"2015"	"2015"	"Belmont County, OH"	"39013"	18	57540	Unreliable	18.5	49.4	7.4	0.1%
+	"2015"	"2015"	"Brown County, OH"	"39015"	26	34930	74.4	48.6	109.1	14.6	0.1%
+	"2015"	"2015"	"Butler County, OH"	"39017"	201	296652	67.8	58.4	77.1	4.8	0.9%
+	"2015"	"2015"	"Clark County, OH"	"39023"	78	108703	71.8	56.7	89.6	8.1	0.4%
+	"2015"	"2015"	"Clermont County, OH"	"39025"	104	159508	65.2	52.7	77.7	6.4	0.5%
+	"2015"	"2015"	"Clinton County, OH"	"39027"	22	33175	66.3	41.6	100.4	14.1	0.1%
+	"2015"	"2015"	"Columbiana County, OH"	"39029"	32	85642	37.4	25.6	52.7	6.6	0.1%
+	"2015"	"2015"	"Crawford County, OH"	"39033"	13	34180	Unreliable	20.3	65.0	10.5	0.1%
+	"2015"	"2015"	"Cuyahoga County, OH"	"39035"	305	1019984	29.9	26.5	33.3	1.7	1.4%
+	"2015"	"2015"	"Darke County, OH"	"39037"	16	41064	Unreliable	22.3	63.3	9.7	0.1%
+	"2015"	"2015"	"Delaware County, OH"	"39041"	18	146362	Unreliable	7.3	19.4	2.9	0.1%
+	"2015"	"2015"	"Erie County, OH"	"39043"	25	61786	40.5	26.2	59.7	8.1	0.1%
+	"2015"	"2015"	"Fairfield County, OH"	"39045"	18	119490	Unreliable	8.9	23.8	3.6	0.1%
+	"2015"	"2015"	"Fayette County, OH"	"39047"	16	22663	Unreliable	40.4	114.6	17.6	0.1%
+	"2015"	"2015"	"Franklin County, OH"	"39049"	319	985989	32.4	28.8	35.9	1.8	1.5%
+	"2015"	"2015"	"Gallia County, OH"	"39053"	11	24021	Unreliable	22.9	81.9	13.8	0.1%
+	"2015"	"2015"	"Geauga County, OH"	"39055"	14	74819	Unreliable	10.2	31.4	5.0	0.1%
+	"2015"	"2015"	"Greene County, OH"	"39057"	49	134472	36.4	27.0	48.2	5.2	0.2%
+	"2015"	"2015"	"Guernsey County, OH"	"39059"	14	31463	Unreliable	24.3	74.7	11.9	0.1%
+	"2015"	"2015"	"Hamilton County, OH"	"39061"	362	640127	56.6	50.7	62.4	3.0	1.7%
+	"2015"	"2015"	"Hancock County, OH"	"39063"	16	60475	Unreliable	15.1	43.0	6.6	0.1%
+	"2015"	"2015"	"Highland County, OH"	"39071"	15	33859	Unreliable	24.8	73.1	11.4	0.1%
+	"2015"	"2015"	"Huron County, OH"	"39077"	11	45885	Unreliable	12.0	42.9	7.2	0.1%
+	"2015"	"2015"	"Jefferson County, OH"	"39081"	17	55815	Unreliable	17.7	48.8	7.4	0.1%
+	"2015"	"2015"	"Knox County, OH"	"39083"	12	48572	Unreliable	12.8	43.2	7.1	0.1%
+	"2015"	"2015"	"Lake County, OH"	"39085"	54	187621	28.8	21.6	37.6	3.9	0.2%
+	"2015"	"2015"	"Lawrence County, OH"	"39087"	25	49206	50.8	32.9	75.0	10.2	0.1%
+	"2015"	"2015"	"Licking County, OH"	"39089"	37	135228	27.4	19.3	37.7	4.5	0.2%
+	"2015"	"2015"	"Logan County, OH"	"39091"	11	35946	Unreliable	15.3	54.8	9.2	0.1%
+	"2015"	"2015"	"Lorain County, OH"	"39093"	72	244657	29.4	23.0	37.1	3.5	0.3%
+	"2015"	"2015"	"Lucas County, OH"	"39095"	129	344365	37.5	31.0	43.9	3.3	0.6%
+	"2015"	"2015"	"Mahoning County, OH"	"39099"	65	190411	34.1	26.3	43.5	4.2	0.3%
+	"2015"	"2015"	"Marion County, OH"	"39101"	24	53195	45.1	28.9	67.1	9.2	0.1%
+	"2015"	"2015"	"Medina County, OH"	"39103"	37	140837	26.3	18.5	36.2	4.3	0.2%
+	"2015"	"2015"	"Miami County, OH"	"39109"	17	82982	Unreliable	11.9	32.8	5.0	0.1%
+	"2015"	"2015"	"Montgomery County, OH"	"39113"	266	426865	62.3	54.8	69.8	3.8	1.2%
+	"2015"	"2015"	"Muskingum County, OH"	"39119"	15	68870	Unreliable	12.2	35.9	5.6	0.1%
+	"2015"	"2015"	"Pickaway County, OH"	"39129"	10	46019	Unreliable	10.4	40.0	6.9	0.0%
+	"2015"	"2015"	"Pike County, OH"	"39131"	13	22274	Unreliable	31.1	99.8	16.2	0.1%
+	"2015"	"2015"	"Portage County, OH"	"39133"	39	135298	28.8	20.5	39.4	4.6	0.2%
+	"2015"	"2015"	"Preble County, OH"	"39135"	14	32990	Unreliable	23.2	71.2	11.3	0.1%
+	"2015"	"2015"	"Richland County, OH"	"39139"	38	98405	38.6	27.3	53.0	6.3	0.2%
+	"2015"	"2015"	"Ross County, OH"	"39141"	41	62553	65.5	47.0	88.9	10.2	0.2%
+	"2015"	"2015"	"Sandusky County, OH"	"39143"	12	47597	Unreliable	13.0	44.0	7.3	0.1%
+	"2015"	"2015"	"Scioto County, OH"	"39145"	32	61922	51.7	35.3	73.0	9.1	0.1%
+	"2015"	"2015"	"Seneca County, OH"	"39147"	12	44682	Unreliable	13.9	46.9	7.8	0.1%
+	"2015"	"2015"	"Stark County, OH"	"39151"	84	303391	27.7	22.1	34.3	3.0	0.4%
+	"2015"	"2015"	"Summit County, OH"	"39153"	202	439623	45.9	39.6	52.3	3.2	0.9%
+	"2015"	"2015"	"Trumbull County, OH"	"39155"	96	166533	57.6	46.7	70.4	5.9	0.4%
+	"2015"	"2015"	"Tuscarawas County, OH"	"39157"	10	74201	Unreliable	6.5	24.8	4.3	0.0%
+	"2015"	"2015"	"Warren County, OH"	"39165"	46	174095	26.4	19.3	35.2	3.9	0.2%
+	"2015"	"2015"	"Washington County, OH"	"39167"	12	50354	Unreliable	12.3	41.6	6.9	0.1%
+	"2015"	"2015"	"Wayne County, OH"	"39169"	25	90845	27.5	17.8	40.6	5.5	0.1%
+	"2015"	"2015"	"Wood County, OH"	"39173"	26	106239	24.5	16.0	35.9	4.8	0.1%
+"Total"	"2015"	"2015"			3408	9295051	36.7	35.4	37.9	0.6	15.7%
+	"2016"	"2016"	"Adams County, OH"	"39001"	13	22014	Unreliable	31.4	101.0	16.4	0.1%
+	"2016"	"2016"	"Allen County, OH"	"39003"	35	82481	42.4	29.6	59.0	7.2	0.2%
+	"2016"	"2016"	"Ashland County, OH"	"39005"	13	43005	Unreliable	16.1	51.7	8.4	0.1%
+	"2016"	"2016"	"Ashtabula County, OH"	"39007"	45	79028	56.9	41.5	76.2	8.5	0.2%
+	"2016"	"2016"	"Athens County, OH"	"39009"	10	57551	Unreliable	8.3	32.0	5.5	0.0%
+	"2016"	"2016"	"Belmont County, OH"	"39013"	23	57175	40.2	25.5	60.4	8.4	0.1%
+	"2016"	"2016"	"Brown County, OH"	"39015"	19	34947	Unreliable	32.7	84.9	12.5	0.1%
+	"2016"	"2016"	"Butler County, OH"	"39017"	226	298226	75.8	65.9	85.7	5.0	1.0%
+	"2016"	"2016"	"Champaign County, OH"	"39021"	16	31024	Unreliable	29.5	83.8	12.9	0.1%
+	"2016"	"2016"	"Clark County, OH"	"39023"	79	107816	73.3	58.0	91.3	8.2	0.4%
+	"2016"	"2016"	"Clermont County, OH"	"39025"	106	160784	65.9	53.4	78.5	6.4	0.5%
+	"2016"	"2016"	"Clinton County, OH"	"39027"	13	33196	Unreliable	20.9	67.0	10.9	0.1%
+	"2016"	"2016"	"Columbiana County, OH"	"39029"	45	84966	53.0	38.6	70.9	7.9	0.2%
+	"2016"	"2016"	"Cuyahoga County, OH"	"39035"	575	1016587	56.6	51.9	61.2	2.4	2.6%
+	"2016"	"2016"	"Darke County, OH"	"39037"	22	40907	53.8	33.7	81.4	11.5	0.1%
+	"2016"	"2016"	"Delaware County, OH"	"39041"	14	149483	Unreliable	5.1	15.7	2.5	0.1%
+	"2016"	"2016"	"Erie County, OH"	"39043"	37	61555	60.1	42.3	82.9	9.9	0.2%
+	"2016"	"2016"	"Fairfield County, OH"	"39045"	29	120734	24.0	16.1	34.5	4.5	0.1%
+	"2016"	"2016"	"Franklin County, OH"	"39049"	355	997031	35.6	31.9	39.3	1.9	1.6%
+	"2016"	"2016"	"Fulton County, OH"	"39051"	12	33572	Unreliable	18.5	62.4	10.3	0.1%
+	"2016"	"2016"	"Gallia County, OH"	"39053"	14	23920	Unreliable	32.0	98.2	15.6	0.1%
+	"2016"	"2016"	"Geauga County, OH"	"39055"	27	74952	36.0	23.7	52.4	6.9	0.1%
+	"2016"	"2016"	"Greene County, OH"	"39057"	49	134809	36.3	26.9	48.1	5.2	0.2%
+	"2016"	"2016"	"Guernsey County, OH"	"39059"	14	31407	Unreliable	24.4	74.8	11.9	0.1%
+	"2016"	"2016"	"Hamilton County, OH"	"39061"	342	641728	53.3	47.6	58.9	2.9	1.6%
+	"2016"	"2016"	"Hancock County, OH"	"39063"	20	60674	33.0	20.1	50.9	7.4	0.1%
+	"2016"	"2016"	"Highland County, OH"	"39071"	22	33961	64.8	40.6	98.1	13.8	0.1%
+	"2016"	"2016"	"Huron County, OH"	"39077"	18	46020	Unreliable	23.2	61.8	9.2	0.1%
+	"2016"	"2016"	"Jefferson County, OH"	"39081"	16	55297	Unreliable	16.5	47.0	7.2	0.1%
+	"2016"	"2016"	"Knox County, OH"	"39083"	12	48637	Unreliable	12.7	43.1	7.1	0.1%
+	"2016"	"2016"	"Lake County, OH"	"39085"	102	187970	54.3	43.7	64.8	5.4	0.5%
+	"2016"	"2016"	"Lawrence County, OH"	"39087"	31	49041	63.2	42.9	89.7	11.4	0.1%
+	"2016"	"2016"	"Licking County, OH"	"39089"	21	136580	15.4	9.5	23.5	3.4	0.1%
+	"2016"	"2016"	"Logan County, OH"	"39091"	17	35890	Unreliable	27.6	75.8	11.5	0.1%
+	"2016"	"2016"	"Lorain County, OH"	"39093"	151	246011	61.4	51.6	71.2	5.0	0.7%
+	"2016"	"2016"	"Lucas County, OH"	"39095"	172	343696	50.0	42.6	57.5	3.8	0.8%
+	"2016"	"2016"	"Madison County, OH"	"39097"	18	35419	Unreliable	30.1	80.3	12.0	0.1%
+	"2016"	"2016"	"Mahoning County, OH"	"39099"	88	189199	46.5	37.3	57.3	5.0	0.4%
+	"2016"	"2016"	"Marion County, OH"	"39101"	29	53133	54.6	36.6	78.4	10.1	0.1%
+	"2016"	"2016"	"Medina County, OH"	"39103"	46	141860	32.4	23.7	43.3	4.8	0.2%
+	"2016"	"2016"	"Miami County, OH"	"39109"	40	83438	47.9	34.2	65.3	7.6	0.2%
+	"2016"	"2016"	"Montgomery County, OH"	"39113"	331	426897	77.5	69.2	85.9	4.3	1.5%
+	"2016"	"2016"	"Muskingum County, OH"	"39119"	11	68786	Unreliable	8.0	28.6	4.8	0.1%
+	"2016"	"2016"	"Ottawa County, OH"	"39123"	15	33981	Unreliable	24.7	72.8	11.4	0.1%
+	"2016"	"2016"	"Portage County, OH"	"39133"	53	135211	39.2	29.4	51.3	5.4	0.2%
+	"2016"	"2016"	"Preble County, OH"	"39135"	23	33034	69.6	44.1	104.5	14.5	0.1%
+	"2016"	"2016"	"Richland County, OH"	"39139"	76	98076	77.5	61.1	97.0	8.9	0.3%
+	"2016"	"2016"	"Ross County, OH"	"39141"	46	62516	73.6	53.9	98.1	10.8	0.2%
+	"2016"	"2016"	"Sandusky County, OH"	"39143"	23	47477	48.4	30.7	72.7	10.1	0.1%
+	"2016"	"2016"	"Scioto County, OH"	"39145"	39	61540	63.4	45.1	86.6	10.1	0.2%
+	"2016"	"2016"	"Shelby County, OH"	"39149"	15	37719	Unreliable	22.3	65.6	10.3	0.1%
+	"2016"	"2016"	"Stark County, OH"	"39151"	128	302413	42.3	35.0	49.7	3.7	0.6%
+	"2016"	"2016"	"Summit County, OH"	"39153"	320	439184	72.9	64.9	80.8	4.1	1.5%
+	"2016"	"2016"	"Trumbull County, OH"	"39155"	119	165321	72.0	59.0	84.9	6.6	0.5%
+	"2016"	"2016"	"Tuscarawas County, OH"	"39157"	16	73911	Unreliable	12.4	35.2	5.4	0.1%
+	"2016"	"2016"	"Warren County, OH"	"39165"	64	177261	36.1	27.8	46.1	4.5	0.3%
+	"2016"	"2016"	"Washington County, OH"	"39167"	25	50083	49.9	32.3	73.7	10.0	0.1%
+	"2016"	"2016"	"Wayne County, OH"	"39169"	47	91306	51.5	37.8	68.5	7.5	0.2%
+	"2016"	"2016"	"Williams County, OH"	"39171"	10	29600	Unreliable	16.2	62.1	10.7	0.0%
+	"2016"	"2016"	"Wood County, OH"	"39173"	25	106782	23.4	15.2	34.6	4.7	0.1%
+"Total"	"2016"	"2016"			4472	9312259	48.0	46.6	49.4	0.7	20.6%
+	"2017"	"2017"	"Adams County, OH"	"39001"	16	21881	Unreliable	41.8	118.7	18.3	0.1%
+	"2017"	"2017"	"Allen County, OH"	"39003"	43	82176	52.3	37.9	70.5	8.0	0.2%
+	"2017"	"2017"	"Ashland County, OH"	"39005"	10	43010	Unreliable	11.1	42.8	7.4	0.0%
+	"2017"	"2017"	"Ashtabula County, OH"	"39007"	44	78818	55.8	40.6	74.9	8.4	0.2%
+	"2017"	"2017"	"Belmont County, OH"	"39013"	24	56684	42.3	27.1	63.0	8.6	0.1%
+	"2017"	"2017"	"Brown County, OH"	"39015"	32	34807	91.9	62.9	129.8	16.3	0.1%
+	"2017"	"2017"	"Butler County, OH"	"39017"	272	301151	90.3	79.6	101.1	5.5	1.3%
+	"2017"	"2017"	"Champaign County, OH"	"39021"	19	31196	Unreliable	36.7	95.1	14.0	0.1%
+	"2017"	"2017"	"Clark County, OH"	"39023"	98	107807	90.9	73.8	110.8	9.2	0.5%
+	"2017"	"2017"	"Clermont County, OH"	"39025"	96	162309	59.1	47.9	72.2	6.0	0.4%
+	"2017"	"2017"	"Clinton County, OH"	"39027"	31	33408	92.8	63.0	131.7	16.7	0.1%
+	"2017"	"2017"	"Columbiana County, OH"	"39029"	51	84582	60.3	44.9	79.3	8.4	0.2%
+	"2017"	"2017"	"Crawford County, OH"	"39033"	22	33820	65.1	40.8	98.5	13.9	0.1%
+	"2017"	"2017"	"Cuyahoga County, OH"	"39035"	629	1019017	61.7	56.9	66.6	2.5	2.9%
+	"2017"	"2017"	"Darke County, OH"	"39037"	29	40789	71.1	47.6	102.1	13.2	0.1%
+	"2017"	"2017"	"Delaware County, OH"	"39041"	32	153126	20.9	14.3	29.5	3.7	0.1%
+	"2017"	"2017"	"Erie County, OH"	"39043"	34	61416	55.4	38.3	77.4	9.5	0.2%
+	"2017"	"2017"	"Fairfield County, OH"	"39045"	52	122166	42.6	31.8	55.8	5.9	0.2%
+	"2017"	"2017"	"Fayette County, OH"	"39047"	30	22729	132.0	89.1	188.4	24.1	0.1%
+	"2017"	"2017"	"Franklin County, OH"	"39049"	466	1020911	45.6	41.5	49.8	2.1	2.1%
+	"2017"	"2017"	"Gallia County, OH"	"39053"	19	23905	Unreliable	47.9	124.1	18.2	0.1%
+	"2017"	"2017"	"Geauga County, OH"	"39055"	25	75182	33.3	21.5	49.1	6.7	0.1%
+	"2017"	"2017"	"Greene County, OH"	"39057"	70	136384	51.3	40.0	64.8	6.1	0.3%
+	"2017"	"2017"	"Guernsey County, OH"	"39059"	14	31433	Unreliable	24.4	74.7	11.9	0.1%
+	"2017"	"2017"	"Hamilton County, OH"	"39061"	466	647050	72.0	65.5	78.6	3.3	2.1%
+	"2017"	"2017"	"Hancock County, OH"	"39063"	35	60844	57.5	40.1	80.0	9.7	0.2%
+	"2017"	"2017"	"Highland County, OH"	"39071"	28	33915	82.6	54.9	119.3	15.6	0.1%
+	"2017"	"2017"	"Huron County, OH"	"39077"	34	46015	73.9	51.2	103.3	12.7	0.2%
+	"2017"	"2017"	"Jackson County, OH"	"39079"	11	25639	Unreliable	21.4	76.8	12.9	0.1%
+	"2017"	"2017"	"Jefferson County, OH"	"39081"	31	55146	56.2	38.2	79.8	10.1	0.1%
+	"2017"	"2017"	"Knox County, OH"	"39083"	16	49013	Unreliable	18.7	53.0	8.2	0.1%
+	"2017"	"2017"	"Lake County, OH"	"39085"	100	189422	52.8	42.4	63.1	5.3	0.5%
+	"2017"	"2017"	"Lawrence County, OH"	"39087"	34	48654	69.9	48.4	97.7	12.0	0.2%
+	"2017"	"2017"	"Licking County, OH"	"39089"	45	137931	32.6	23.8	43.7	4.9	0.2%
+	"2017"	"2017"	"Logan County, OH"	"39091"	18	36037	Unreliable	29.6	78.9	11.8	0.1%
+	"2017"	"2017"	"Lorain County, OH"	"39093"	142	247932	57.3	47.9	66.7	4.8	0.7%
+	"2017"	"2017"	"Lucas County, OH"	"39095"	174	342566	50.8	43.2	58.3	3.9	0.8%
+	"2017"	"2017"	"Madison County, OH"	"39097"	21	36088	58.2	36.0	89.0	12.7	0.1%
+	"2017"	"2017"	"Mahoning County, OH"	"39099"	119	189363	62.8	51.6	74.1	5.8	0.5%
+	"2017"	"2017"	"Marion County, OH"	"39101"	33	53068	62.2	42.8	87.3	10.8	0.2%
+	"2017"	"2017"	"Medina County, OH"	"39103"	51	143220	35.6	26.5	46.8	5.0	0.2%
+	"2017"	"2017"	"Miami County, OH"	"39109"	45	83785	53.7	39.2	71.9	8.0	0.2%
+	"2017"	"2017"	"Montgomery County, OH"	"39113"	540	427336	126.4	115.7	137.0	5.4	2.5%
+	"2017"	"2017"	"Morrow County, OH"	"39117"	12	27861	Unreliable	22.3	75.2	12.4	0.1%
+	"2017"	"2017"	"Muskingum County, OH"	"39119"	23	68841	33.4	21.2	50.1	7.0	0.1%
+	"2017"	"2017"	"Ottawa County, OH"	"39123"	12	34010	Unreliable	18.2	61.6	10.2	0.1%
+	"2017"	"2017"	"Pickaway County, OH"	"39129"	18	46952	Unreliable	22.7	60.6	9.0	0.1%
+	"2017"	"2017"	"Pike County, OH"	"39131"	18	22403	Unreliable	47.6	127.0	18.9	0.1%
+	"2017"	"2017"	"Portage County, OH"	"39133"	47	135604	34.7	25.5	46.1	5.1	0.2%
+	"2017"	"2017"	"Preble County, OH"	"39135"	31	32997	93.9	63.8	133.4	16.9	0.1%
+	"2017"	"2017"	"Richland County, OH"	"39139"	57	97488	58.5	44.3	75.8	7.7	0.3%
+	"2017"	"2017"	"Ross County, OH"	"39141"	30	63004	47.6	32.1	68.0	8.7	0.1%
+	"2017"	"2017"	"Sandusky County, OH"	"39143"	23	47439	48.5	30.7	72.7	10.1	0.1%
+	"2017"	"2017"	"Scioto County, OH"	"39145"	56	61468	91.1	68.8	118.3	12.2	0.3%
+	"2017"	"2017"	"Seneca County, OH"	"39147"	18	44534	Unreliable	24.0	63.9	9.5	0.1%
+	"2017"	"2017"	"Shelby County, OH"	"39149"	22	37992	57.9	36.3	87.7	12.3	0.1%
+	"2017"	"2017"	"Stark County, OH"	"39151"	113	302078	37.4	30.5	44.3	3.5	0.5%
+	"2017"	"2017"	"Summit County, OH"	"39153"	259	441163	58.7	51.6	65.9	3.6	1.2%
+	"2017"	"2017"	"Trumbull County, OH"	"39155"	138	164367	84.0	70.0	98.0	7.1	0.6%
+	"2017"	"2017"	"Tuscarawas County, OH"	"39157"	23	73698	31.2	19.8	46.8	6.5	0.1%
+	"2017"	"2017"	"Union County, OH"	"39159"	12	44325	Unreliable	14.0	47.3	7.8	0.1%
+	"2017"	"2017"	"Warren County, OH"	"39165"	90	178964	50.3	40.4	61.8	5.3	0.4%
+	"2017"	"2017"	"Washington County, OH"	"39167"	19	49944	Unreliable	22.9	59.4	8.7	0.1%
+	"2017"	"2017"	"Wayne County, OH"	"39169"	29	90946	31.9	21.4	45.8	5.9	0.1%
+	"2017"	"2017"	"Wood County, OH"	"39173"	19	107185	Unreliable	10.7	27.7	4.1	0.1%
+"Total"	"2017"	"2017"			5281	9363729	56.4	54.9	57.9	0.8	24.3%
+	"2018"	"2018"	"Adams County, OH"	"39001"	11	21919	Unreliable	25.1	89.8	15.1	0.1%
+	"2018"	"2018"	"Allen County, OH"	"39003"	14	81714	Unreliable	9.4	28.7	4.6	0.1%
+	"2018"	"2018"	"Ashtabula County, OH"	"39007"	34	78600	43.3	30.0	60.4	7.4	0.2%
+	"2018"	"2018"	"Belmont County, OH"	"39013"	20	56311	35.5	21.7	54.9	7.9	0.1%
+	"2018"	"2018"	"Brown County, OH"	"39015"	26	34866	74.6	48.7	109.3	14.6	0.1%
+	"2018"	"2018"	"Butler County, OH"	"39017"	184	303308	60.7	51.9	69.4	4.5	0.8%
+	"2018"	"2018"	"Champaign County, OH"	"39021"	11	31223	Unreliable	17.6	63.0	10.6	0.1%
+	"2018"	"2018"	"Clark County, OH"	"39023"	76	108045	70.3	55.4	88.0	8.1	0.3%
+	"2018"	"2018"	"Clermont County, OH"	"39025"	86	163862	52.5	42.0	64.8	5.7	0.4%
+	"2018"	"2018"	"Clinton County, OH"	"39027"	17	33511	Unreliable	29.6	81.2	12.3	0.1%
+	"2018"	"2018"	"Columbiana County, OH"	"39029"	34	84360	40.3	27.9	56.3	6.9	0.2%
+	"2018"	"2018"	"Crawford County, OH"	"39033"	13	33640	Unreliable	20.6	66.1	10.7	0.1%
+	"2018"	"2018"	"Cuyahoga County, OH"	"39035"	477	1016277	46.9	42.7	51.1	2.1	2.2%
+	"2018"	"2018"	"Darke County, OH"	"39037"	19	40627	Unreliable	28.2	73.0	10.7	0.1%
+	"2018"	"2018"	"Delaware County, OH"	"39041"	34	157559	21.6	14.9	30.2	3.7	0.2%
+	"2018"	"2018"	"Erie County, OH"	"39043"	30	61395	48.9	33.0	69.8	8.9	0.1%
+	"2018"	"2018"	"Fairfield County, OH"	"39045"	30	122998	24.4	16.5	34.8	4.5	0.1%
+	"2018"	"2018"	"Franklin County, OH"	"39049"	531	1036502	51.2	46.9	55.6	2.2	2.4%
+	"2018"	"2018"	"Gallia County, OH"	"39053"	19	23975	Unreliable	47.7	123.8	18.2	0.1%
+	"2018"	"2018"	"Geauga County, OH"	"39055"	13	75505	Unreliable	9.2	29.4	4.8	0.1%
+	"2018"	"2018"	"Greene County, OH"	"39057"	51	137353	37.1	27.6	48.8	5.2	0.2%
+	"2018"	"2018"	"Hamilton County, OH"	"39061"	385	649312	59.3	53.4	65.2	3.0	1.8%
+	"2018"	"2018"	"Hancock County, OH"	"39063"	27	61042	44.2	29.1	64.4	8.5	0.1%
+	"2018"	"2018"	"Henry County, OH"	"39069"	10	21591	Unreliable	22.2	85.2	14.6	0.0%
+	"2018"	"2018"	"Hocking County, OH"	"39073"	12	22941	Unreliable	27.0	91.4	15.1	0.1%
+	"2018"	"2018"	"Huron County, OH"	"39077"	18	46083	Unreliable	23.1	61.7	9.2	0.1%
+	"2018"	"2018"	"Jackson County, OH"	"39079"	14	25589	Unreliable	29.9	91.8	14.6	0.1%
+	"2018"	"2018"	"Jefferson County, OH"	"39081"	29	54708	53.0	35.5	76.1	9.8	0.1%
+	"2018"	"2018"	"Knox County, OH"	"39083"	10	49509	Unreliable	9.7	37.1	6.4	0.0%
+	"2018"	"2018"	"Lake County, OH"	"39085"	76	190228	40.0	31.5	50.0	4.6	0.3%
+	"2018"	"2018"	"Lawrence County, OH"	"39087"	37	48401	76.4	53.8	105.4	12.6	0.2%
+	"2018"	"2018"	"Licking County, OH"	"39089"	44	139821	31.5	22.9	42.2	4.7	0.2%
+	"2018"	"2018"	"Logan County, OH"	"39091"	12	36164	Unreliable	17.1	58.0	9.6	0.1%
+	"2018"	"2018"	"Lorain County, OH"	"39093"	108	249758	43.2	35.1	51.4	4.2	0.5%
+	"2018"	"2018"	"Lucas County, OH"	"39095"	178	342219	52.0	44.4	59.7	3.9	0.8%
+	"2018"	"2018"	"Mahoning County, OH"	"39099"	103	189299	54.4	43.9	64.9	5.4	0.5%
+	"2018"	"2018"	"Marion County, OH"	"39101"	30	53207	56.4	38.0	80.5	10.3	0.1%
+	"2018"	"2018"	"Medina County, OH"	"39103"	40	144302	27.7	19.8	37.7	4.4	0.2%
+	"2018"	"2018"	"Meigs County, OH"	"39105"	16	18840	Unreliable	48.5	137.9	21.2	0.1%
+	"2018"	"2018"	"Miami County, OH"	"39109"	29	84771	34.2	22.9	49.1	6.4	0.1%
+	"2018"	"2018"	"Montgomery County, OH"	"39113"	307	428429	71.7	63.6	79.7	4.1	1.4%
+	"2018"	"2018"	"Muskingum County, OH"	"39119"	41	69008	59.4	42.6	80.6	9.3	0.2%
+	"2018"	"2018"	"Ottawa County, OH"	"39123"	13	34219	Unreliable	20.2	65.0	10.5	0.1%
+	"2018"	"2018"	"Perry County, OH"	"39127"	14	28596	Unreliable	26.8	82.1	13.1	0.1%
+	"2018"	"2018"	"Pickaway County, OH"	"39129"	19	47213	Unreliable	24.2	62.8	9.2	0.1%
+	"2018"	"2018"	"Pike County, OH"	"39131"	17	22276	Unreliable	44.5	122.2	18.5	0.1%
+	"2018"	"2018"	"Portage County, OH"	"39133"	37	136367	27.1	19.1	37.4	4.5	0.2%
+	"2018"	"2018"	"Preble County, OH"	"39135"	14	32948	Unreliable	23.2	71.3	11.4	0.1%
+	"2018"	"2018"	"Richland County, OH"	"39139"	55	97977	56.1	42.3	73.1	7.6	0.3%
+	"2018"	"2018"	"Ross County, OH"	"39141"	42	62692	67.0	48.3	90.6	10.3	0.2%
+	"2018"	"2018"	"Sandusky County, OH"	"39143"	18	47364	Unreliable	22.5	60.1	9.0	0.1%
+	"2018"	"2018"	"Scioto County, OH"	"39145"	53	61059	86.8	65.0	113.5	11.9	0.2%
+	"2018"	"2018"	"Seneca County, OH"	"39147"	13	44612	Unreliable	15.5	49.8	8.1	0.1%
+	"2018"	"2018"	"Shelby County, OH"	"39149"	10	38025	Unreliable	12.6	48.4	8.3	0.0%
+	"2018"	"2018"	"Stark County, OH"	"39151"	85	301561	28.2	22.5	34.9	3.1	0.4%
+	"2018"	"2018"	"Summit County, OH"	"39153"	137	442446	31.0	25.8	36.1	2.6	0.6%
+	"2018"	"2018"	"Trumbull County, OH"	"39155"	87	162931	53.4	42.8	65.9	5.7	0.4%
+	"2018"	"2018"	"Tuscarawas County, OH"	"39157"	14	73581	Unreliable	10.4	31.9	5.1	0.1%
+	"2018"	"2018"	"Warren County, OH"	"39165"	45	182202	24.7	18.0	33.0	3.7	0.2%
+	"2018"	"2018"	"Washington County, OH"	"39167"	13	49819	Unreliable	13.9	44.6	7.2	0.1%
+	"2018"	"2018"	"Wayne County, OH"	"39169"	20	91114	22.0	13.4	33.9	4.9	0.1%
+	"2018"	"2018"	"Williams County, OH"	"39171"	10	29453	Unreliable	16.3	62.4	10.7	0.0%
+	"2018"	"2018"	"Wood County, OH"	"39173"	17	107131	Unreliable	9.2	25.4	3.8	0.1%
+"Total"	"2018"	"2018"			4142	9400098	44.1	42.7	45.4	0.7	19.1%
+	"2019"	"2019"	"Adams County, OH"	"39001"	14	21905	Unreliable	34.9	107.2	17.1	0.1%
+	"2019"	"2019"	"Allen County, OH"	"39003"	16	81593	Unreliable	11.2	31.8	4.9	0.1%
+	"2019"	"2019"	"Ashtabula County, OH"	"39007"	37	78426	47.2	33.2	65.0	7.8	0.2%
+	"2019"	"2019"	"Belmont County, OH"	"39013"	21	55945	37.5	23.2	57.4	8.2	0.1%
+	"2019"	"2019"	"Brown County, OH"	"39015"	14	34691	Unreliable	22.1	67.7	10.8	0.1%
+	"2019"	"2019"	"Butler County, OH"	"39017"	190	304432	62.4	53.5	71.3	4.5	0.9%
+	"2019"	"2019"	"Champaign County, OH"	"39021"	11	31339	Unreliable	17.5	62.8	10.6	0.1%
+	"2019"	"2019"	"Clark County, OH"	"39023"	63	107667	58.5	45.0	74.9	7.4	0.3%
+	"2019"	"2019"	"Clermont County, OH"	"39025"	86	165156	52.1	41.7	64.3	5.6	0.4%
+	"2019"	"2019"	"Clinton County, OH"	"39027"	19	33528	Unreliable	34.1	88.5	13.0	0.1%
+	"2019"	"2019"	"Columbiana County, OH"	"39029"	47	83814	56.1	41.2	74.6	8.2	0.2%
+	"2019"	"2019"	"Crawford County, OH"	"39033"	12	33561	Unreliable	18.5	62.5	10.3	0.1%
+	"2019"	"2019"	"Cuyahoga County, OH"	"39035"	504	1010174	49.9	45.5	54.2	2.2	2.3%
+	"2019"	"2019"	"Darke County, OH"	"39037"	10	40431	Unreliable	11.9	45.5	7.8	0.0%
+	"2019"	"2019"	"Delaware County, OH"	"39041"	28	161645	17.3	11.5	25.0	3.3	0.1%
+	"2019"	"2019"	"Erie County, OH"	"39043"	16	61129	Unreliable	15.0	42.5	6.5	0.1%
+	"2019"	"2019"	"Fairfield County, OH"	"39045"	37	124557	29.7	20.9	40.9	4.9	0.2%
+	"2019"	"2019"	"Fayette County, OH"	"39047"	11	22609	Unreliable	24.3	87.1	14.7	0.1%
+	"2019"	"2019"	"Franklin County, OH"	"39049"	592	1041810	56.8	52.2	61.4	2.3	2.7%
+	"2019"	"2019"	"Gallia County, OH"	"39053"	23	23840	96.5	61.2	144.8	20.1	0.1%
+	"2019"	"2019"	"Geauga County, OH"	"39055"	23	75437	30.5	19.3	45.7	6.4	0.1%
+	"2019"	"2019"	"Greene County, OH"	"39057"	42	138166	30.4	21.9	41.1	4.7	0.2%
+	"2019"	"2019"	"Guernsey County, OH"	"39059"	16	31313	Unreliable	29.2	83.0	12.8	0.1%
+	"2019"	"2019"	"Hamilton County, OH"	"39061"	379	650390	58.3	52.4	64.1	3.0	1.7%
+	"2019"	"2019"	"Hancock County, OH"	"39063"	17	61035	Unreliable	16.2	44.6	6.8	0.1%
+	"2019"	"2019"	"Hardin County, OH"	"39065"	11	24973	Unreliable	22.0	78.8	13.3	0.1%
+	"2019"	"2019"	"Highland County, OH"	"39071"	16	34228	Unreliable	26.7	75.9	11.7	0.1%
+	"2019"	"2019"	"Huron County, OH"	"39077"	28	45932	61.0	40.5	88.1	11.5	0.1%
+	"2019"	"2019"	"Jackson County, OH"	"39079"	10	25538	Unreliable	18.8	72.0	12.4	0.0%
+	"2019"	"2019"	"Jefferson County, OH"	"39081"	26	54286	47.9	31.3	70.2	9.4	0.1%
+	"2019"	"2019"	"Knox County, OH"	"39083"	11	49870	Unreliable	11.0	39.5	6.7	0.1%
+	"2019"	"2019"	"Lake County, OH"	"39085"	81	190526	42.5	33.8	52.8	4.7	0.4%
+	"2019"	"2019"	"Lawrence County, OH"	"39087"	26	48151	54.0	35.3	79.1	10.6	0.1%
+	"2019"	"2019"	"Licking County, OH"	"39089"	55	140972	39.0	29.4	50.8	5.3	0.3%
+	"2019"	"2019"	"Logan County, OH"	"39091"	12	36382	Unreliable	17.0	57.6	9.5	0.1%
+	"2019"	"2019"	"Lorain County, OH"	"39093"	118	250472	47.1	38.6	55.6	4.3	0.5%
+	"2019"	"2019"	"Lucas County, OH"	"39095"	242	340797	71.0	62.1	80.0	4.6	1.1%
+	"2019"	"2019"	"Madison County, OH"	"39097"	20	36776	54.4	33.2	84.0	12.2	0.1%
+	"2019"	"2019"	"Mahoning County, OH"	"39099"	109	188755	57.7	46.9	68.6	5.5	0.5%
+	"2019"	"2019"	"Marion County, OH"	"39101"	31	52991	58.5	39.7	83.0	10.5	0.1%
+	"2019"	"2019"	"Medina County, OH"	"39103"	23	145312	15.8	10.0	23.7	3.3	0.1%
+	"2019"	"2019"	"Meigs County, OH"	"39105"	10	18691	Unreliable	25.7	98.4	16.9	0.0%
+	"2019"	"2019"	"Miami County, OH"	"39109"	25	85339	29.3	19.0	43.2	5.9	0.1%
+	"2019"	"2019"	"Montgomery County, OH"	"39113"	281	428279	65.6	57.9	73.3	3.9	1.3%
+	"2019"	"2019"	"Morrow County, OH"	"39117"	14	28439	Unreliable	26.9	82.6	13.2	0.1%
+	"2019"	"2019"	"Muskingum County, OH"	"39119"	37	69015	53.6	37.7	73.9	8.8	0.2%
+	"2019"	"2019"	"Ottawa County, OH"	"39123"	11	34174	Unreliable	16.1	57.6	9.7	0.1%
+	"2019"	"2019"	"Perry County, OH"	"39127"	11	28623	Unreliable	19.2	68.8	11.6	0.1%
+	"2019"	"2019"	"Pickaway County, OH"	"39129"	25	47547	52.6	34.0	77.6	10.5	0.1%
+	"2019"	"2019"	"Pike County, OH"	"39131"	16	22074	Unreliable	41.4	117.7	18.1	0.1%
+	"2019"	"2019"	"Portage County, OH"	"39133"	38	136251	27.9	19.7	38.3	4.5	0.2%
+	"2019"	"2019"	"Preble County, OH"	"39135"	14	32918	Unreliable	23.3	71.4	11.4	0.1%
+	"2019"	"2019"	"Richland County, OH"	"39139"	59	98027	60.2	45.8	77.6	7.8	0.3%
+	"2019"	"2019"	"Ross County, OH"	"39141"	40	62356	64.1	45.8	87.4	10.1	0.2%
+	"2019"	"2019"	"Sandusky County, OH"	"39143"	17	47201	Unreliable	21.0	57.7	8.7	0.1%
+	"2019"	"2019"	"Scioto County, OH"	"39145"	86	60929	141.1	112.9	174.3	15.2	0.4%
+	"2019"	"2019"	"Seneca County, OH"	"39147"	13	44706	Unreliable	15.5	49.7	8.1	0.1%
+	"2019"	"2019"	"Shelby County, OH"	"39149"	16	38054	Unreliable	24.0	68.3	10.5	0.1%
+	"2019"	"2019"	"Stark County, OH"	"39151"	111	301113	36.9	30.0	43.7	3.5	0.5%
+	"2019"	"2019"	"Summit County, OH"	"39153"	225	442057	50.9	44.2	57.5	3.4	1.0%
+	"2019"	"2019"	"Trumbull County, OH"	"39155"	107	162705	65.8	53.3	78.2	6.4	0.5%
+	"2019"	"2019"	"Tuscarawas County, OH"	"39157"	15	73440	Unreliable	11.4	33.7	5.3	0.1%
+	"2019"	"2019"	"Union County, OH"	"39159"	14	46165	Unreliable	16.6	50.9	8.1	0.1%
+	"2019"	"2019"	"Warren County, OH"	"39165"	48	185077	25.9	19.1	34.4	3.7	0.2%
+	"2019"	"2019"	"Washington County, OH"	"39167"	11	49557	Unreliable	11.1	39.7	6.7	0.1%
+	"2019"	"2019"	"Wayne County, OH"	"39169"	24	90983	26.4	16.9	39.2	5.4	0.1%
+	"2019"	"2019"	"Wood County, OH"	"39173"	27	107311	25.2	16.6	36.6	4.8	0.1%
+"Total"	"2019"	"2019"			4425	9409089	47.0	45.6	48.4	0.7	20.4%
+"Total"					21728	46780226	46.4	45.8	47.1	0.3	100.0%
+"---"
+"Dataset: Multiple Cause of Death, 1999-2019"
+"Query Parameters:"
+"Single-Year Ages: 16 years; 17 years; 18 years; 19 years; 20 years; 21 years; 22 years; 23 years; 24 years; 25 years; 26 years;"
+"27 years; 28 years; 29 years; 30 years; 31 years; 32 years; 33 years; 34 years; 35 years; 36 years; 37 years; 38 years; 39"
+"years; 40 years; 41 years; 42 years; 43 years; 44 years; 45 years; 46 years; 47 years; 48 years; 49 years; 50 years; 51 years;"
+"52 years; 53 years; 54 years; 55 years; 56 years; 57 years; 58 years; 59 years; 60 years; 61 years; 62 years; 63 years; 64"
+"years; 65 years; 66 years; 67 years; 68 years; 69 years; 70 years; 71 years; 72 years; 73 years; 74 years; 75 years; 76 years;"
+"77 years; 78 years; 79 years; 80 years; 81 years; 82 years; 83 years; 84 years; 85 years; 86 years; 87 years; 88 years; 89"
+"years; 90 years; 91 years; 92 years; 93 years; 94 years; 95 years; 96 years; 97 years; 98 years; 99 years; 100+ years"
+"States: Ohio (39)"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes"
+"Year/Month: 2015; 2016; 2017; 2018; 2019"
+"Group By: Year; County"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Oct 27, 2021 10:56:36 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2019 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2019, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Oct 27, 2021 10:56:36 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"4. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Confidence-Intervals."
+"5. The method used to calculate standard errors is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Standard-Errors."
+"6. The population figures for year 2019 are bridged-race estimates of the July 1 resident population, from the Vintage 2019"
+"postcensal series released by NCHS on July 9, 2020. The population figures for year 2018 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2018 postcensal series released by NCHS on June 25, 2019. The population figures for"
+"year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017 postcensal series released by NCHS"
+"on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The"
+"population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal"
+"series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13,"
+"2013. Population figures for 2011 are bridged-race estimates of the July 1 resident population, from the county-level postcensal"
+"Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"
+"figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident population, from the revised intercensal"
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."
+"Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for Infant Age"
+"Groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from"
+"previously published reports, due to use of the population estimates which were available at the time of release."
